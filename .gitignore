@@ -1,0 +1,8 @@
+__pycache__/*
+
+*.pyc
+*.gz
+*.bin
+*.txt
+*.png
+*.log
