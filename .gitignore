@@ -6,3 +6,6 @@ __pycache__/*
 *.txt
 *.png
 *.log
+
+HW\3_Image_Captioning\data
+1_DL_tricks\data
