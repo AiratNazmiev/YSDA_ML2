@@ -1,5 +1,6 @@
 __pycache__/*
 
+
 *.pyc
 *.gz
 *.bin
@@ -7,6 +8,15 @@ __pycache__/*
 *.png
 *.log
 
-HW\3_Image_Captioning\data
-HW\5_CycleGAN\img2img\*.jpg
-1_DL_tricks\data
+3_Image_Captioning/data/
+3_Image_Captioning/glove.840B.300d/
+4_Interpretation/data/
+5_Development_tools/my_model
+5_Development_tools/wandb
+6_Generative_models_VAE/chkp
+7_Generative_models_CVAE_CGAN_CDiffusion/chkp
+7_Generative_models_CVAE_CGAN_CDiffusion/datasets
+HW/3_Image_Captioning/data/
+HW/5_CycleGAN/img2img/
+HW/5_CycleGAN/chkp/
+1_DL_tricks/data/
