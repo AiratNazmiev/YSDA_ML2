@@ -8,4 +8,5 @@ __pycache__/*
 *.log
 
 HW\3_Image_Captioning\data
+HW\5_CycleGAN\img2img
 1_DL_tricks\data
